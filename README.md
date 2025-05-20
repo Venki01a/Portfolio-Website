@@ -25,6 +25,6 @@ Welcome to my **personal portfolio website** built with **Streamlit** — a slee
 
 ### 🔗 Live Portfolio
 
-👉 [Check it out on Streamlit](https://portfolio-sagar.pages.dev/) *(replace with your own deployed URL)*
+👉 [Check it out on Streamlit](https://venkateshgargportfoliowebsite123.streamlit.app/) *(replace with your own deployed URL)*
 
 ---
